@@ -30,6 +30,7 @@ dependencies:
   hexcolor: ^2.0.3
   http: any
   font_awesome_flutter: ^9.0.0
+  mqtt_client: ^7.2.1
 
 dev_dependencies:
   flutter_test:
